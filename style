@@ -1,0 +1,45 @@
+* {
+  color: rgb(65, 59, 141);
+}
+.container {
+  padding: 8%;
+  background-color: lightgoldenrodyellow;
+}
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid maroon;
+  border-radius: 20px;
+  background-color: lightblue;
+  margin-left: 30%;
+  width: 300px;
+  padding: 5%;
+}
+button {
+  width: 100%;
+  height: 30px;
+  border-radius: 6px;
+  color: #fff;
+  background-color: rgb(65, 59, 141);
+  border: rgb(65, 59, 141);
+}
+h1 {
+  text-align: center;
+}
+.fields {
+  height: 25px;
+}
+.input-fields {
+  font-weight: bold;
+  height: 29px;
+  border-radius: 6px;
+  border: 1px solid steelblue;
+}
+.input-fields:hover {
+  color: rgb(65, 59, 141);
+  background-color: rgb(234, 226, 219);
+}
+i {
+  color: rgb(65, 59, 141);
+}
