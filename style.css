@@ -38,7 +38,7 @@ h1 {
 }
 .input-fields:hover {
   color: rgb(65, 59, 141);
-  background-color: rgb(234, 226, 219);
+  background-color: lightgrey;
 }
 i {
   color: rgb(65, 59, 141);
